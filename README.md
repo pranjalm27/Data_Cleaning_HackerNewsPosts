@@ -17,12 +17,18 @@ Skills I learnt from this project -
 4. How to work with Lists
 
 
-Below are descriptions of the columns:
+#### Below are descriptions of the columns:
 
 id: the unique identifier from Hacker News for the post
+
 title: the title of the post
+
 url: the URL that the posts links to, if the post has a URL
+
 num_points: the number of points the post acquired, calculated as 5. 5. the total number of upvotes minus the total number of downvotes
+
 num_comments: the number of comments on the post
+
 author: the username of the person who submitted the post
+
 created_at: the date and time of the post's submission
